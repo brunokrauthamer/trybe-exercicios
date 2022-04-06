@@ -8,3 +8,7 @@ if ((a*b*c)%2==0) {
 else {
     console.log("Nenhum é par")
 }
+
+d = ""
+
+console.log(typeof(d))
